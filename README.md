@@ -1,7 +1,7 @@
 # ic-05
 ic-05 - Intro to JavaScript
 
-Link to GitHub Pages: `https://ds4200-s23-class.github.io/ic-05-arjun_kush/`
+Link to GitHub Pages: [https://ds4200-s23-class.github.io/ic-05-arjun_kush/]
 
 ## Purpose
 
